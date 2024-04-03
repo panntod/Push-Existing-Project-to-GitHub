@@ -4,7 +4,6 @@ In this tutorial, you will learn how to take an existing project you are working
 
 ## Step 1 
 ### Create a new GitHub Repo
-[![create a new github repo](https://github.com/panntod/Push-Existing-Project-to-GitHub/blob/main/images/create-new-repository.png)
 Sign in to GitHub and [create a new empty repo](https://github.com/new). You can choose to either initialize a README or not. It doesn’t really matter because we’re just going to override everything in this remote repository anyway.
 
 ## Step 2
@@ -41,3 +40,15 @@ The -u (or --set-upstream) flag sets the remote origin as the upstream reference
 The -f (or --force) flag stands for force. This will automatically overwrite everything in the remote directory. We’re using it here to overwrite the default README that GitHub automatically initialized.
 
 *Note: If you did not include the default README when creating the project on GitHub, the -f flag isn’t really necessary.
+
+## Or you can use this quick way
+
+by following these steps you can directly upload it to github
+
+![create a new github repo](https://github.com/panntod/Push-Existing-Project-to-GitHub/blob/main/images/create-new-repository.png)
+
+![select name](https://github.com/panntod/Push-Existing-Project-to-GitHub/blob/main/images/select-name.png)
+
+![copy code](https://github.com/panntod/Push-Existing-Project-to-GitHub/blob/main/images/copy-code.png)
+
+![paste code](https://github.com/panntod/Push-Existing-Project-to-GitHub/blob/main/images/paste-code.png)
